@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bintang Arya</h1>
 <br>
-<img align="right" alt="Coding" width="490" src="https://github.com/Bintang0/Bintang0/blob/main/setup%20desk.jpg">
+<img align="right" alt="Coding" width="470" src="https://github.com/Bintang0/Bintang0/blob/main/setup%20desk.jpg">
 <h3 align="left">About me</h3>
 
 - 🌱 *I’m currently learning Java*
