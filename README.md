@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and front end**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT AND JAVA**
+- 💬 Ask me about **Html,Css,JavaScript and Java**
 
 - 📫 How to reach me **223040032.bintang@mail.unpas.ac.id**
 
