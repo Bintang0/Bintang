@@ -9,7 +9,7 @@
 
 - 📫 *How to reach me bintangarya747@gmail.com*
 
-- ⌨️ *Keeb and Pads Enthusiast, ask me anything about keyboard mousepad and mouse. i'll would any recommendation for you* 
+- ⌨️ *Keeb and Pads Enthusiast, ask me anything about keyboard mousepad and mice. i'll would any recommendation for you* 
 
 
 
