@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Html,Css,JavaScript and Java**
 
-- 📫 How to reach me **223040032.bintang@mail.unpas.ac.id**
+- 📫 How to reach me **bintangarya747@gmail.com**
 
 
 
