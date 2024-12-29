@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bintang Arya</h1>
-<h3 align="center">FrontEnd developer from ID</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="490" src="https://github.com/Bintang0/Bintang0/blob/main/setup%20desk.jpg">
 <h3 align="left">About me</h3>
 
