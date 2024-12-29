@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bintang Arya</h1>
-<h3 align="center">A passionate frontend developer from ID</h3>
+<h1 align="center">Hi, I'm Bintang Arya</h1>
+<h3 align="center">FrontEnd developer from ID</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAe/coding-anime.png">
 
 
