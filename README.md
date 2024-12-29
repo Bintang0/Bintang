@@ -9,6 +9,8 @@
 
 - 📫 *How to reach me bintangarya747@gmail.com*
 
+- ⌨️ *Keeb and Pads Enthusiast, ask me anything about keyboard mousepad and mouse. i'll would any recommendation for you* 
+
 
 
 <h3 align="left">Languages and Tools</h3>
