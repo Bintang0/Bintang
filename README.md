@@ -3,9 +3,8 @@
 <!-- <img align="right" alt="Coding" width="370" src="https://github.com/Bintang0/Bintang0/blob/main/setup%20desk.jpg"> -->
 <h3 align="left">About me</h3>
 
-- 🌱 *I’m currently learning Java*
-
 - ⌨️ *Keeb and Pads Enthusiast, ask me anything about keyboard mousepad and mice. i'll would any recommendation for you* 
+
 
 - 📫 *How to reach me bintangarya747@gmail.com*
 
